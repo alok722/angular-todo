@@ -1,0 +1,10 @@
+div {
+    text-align: center;
+    margin-top: 15%;
+}
+div a {
+    color: rgb(23, 229, 150);
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 18px;
+}
