@@ -1,6 +1,6 @@
 # Angular todo application
 
-## Quick Start
+## 🛠 Quick Start
 
 ```bash
 # Install dependencies
@@ -12,3 +12,6 @@ ng serve
 # Build for production
 ng build
 ```
+## 📸 demo
+![demo](demo/demo-1.JPG)
+![demo](demo/demo-2.JPG)
